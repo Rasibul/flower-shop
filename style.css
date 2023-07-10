@@ -82,6 +82,7 @@
     margin-top: 100px;
     margin-bottom: 100px;
 }
+/* This is Insta Section */
 
 .insta {
     margin-top: 130px;
@@ -98,7 +99,6 @@
     color: #272727;
     text-align: center;
     font-size: 40px;
-    font-weight: 800;
     margin-bottom: 24px;
 
 }
@@ -110,5 +110,5 @@
     margin-bottom: 48px;
 }
 .box-image{
-   gap: 24px;
+   margin-right: 10px;
 }
