@@ -149,3 +149,33 @@
     border: 0;
     margin-right: 16px;
 }
+
+/* Footer section */
+
+.footer-section {
+    background: #111010;
+    color: white;
+    text-align: center;
+    padding-top: 125px;
+    padding-bottom: 128px;
+
+}
+
+.style {
+    color: #E55473;
+}
+
+.footer-tittle {
+    font-size: 48px;
+    margin-bottom: 24px;
+}
+
+.footer-describe {
+    margin-bottom: 32px;
+}
+
+.footer-end {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+
+}
