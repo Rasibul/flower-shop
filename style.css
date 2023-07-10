@@ -52,32 +52,86 @@
 }
 
 /* Feture section */
-.feture-box{
+.primary-tittle {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+
+.primary-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+
+}
+
+.box-flower-tittle {
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    text-decoration-line: underline;
+    margin-top: 30px;
+    margin-bottom: 128px;
+}
+
+.feture-box {
     display: flex;
     justify-content: space-around;
 }
-.box-img{
-   text-align:center;
-   margin-top: 50px;
-}
-.box-1{
-    width: 464px;
-    height: 538px;
-    border-radius: 300px 300px 0px 0px;
-    background: rgba(167, 33, 98, 0.15);
-}
-.box-2{
-    width: 464px;
-    height: 538px;
-    border-radius: 300px 300px 0px 0px;
-    background: rgba(5, 151, 160, 0.15);
+
+.box-img {
+    text-align: center;
+    margin-top: 50px;
+
+
 }
 
-.box-3{
-    width: 464px;
-    height: 538px;
+.box-1 {
+    width: 240px;
+    height: 320px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 105px 75px 0px 76px;
+}
+
+.box-2 {
+    width: 240px;
+    height: 320px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 105px 75px 0px 76px;
+}
+
+.box-3 {
+    width: 240px;
+    height: 320px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
+    padding: 105px 75px 0px 76px;
+}
+
+/* Delivery Section */
+.delivery {
+    width: 1440px;
+    height: 320px;
+    flex-shrink: 0;
+    background-color: rgba(39, 39, 39, 0.05);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.logo {
+    text-align: center;
+    
+}
+
+.logo-tittle {
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 24px;
+   padding: 170px 80;
 }
 
 /* Hot deal sction style */
@@ -87,6 +141,7 @@
     justify-content: space-around;
     align-items: center;
     gap: 215px;
+    margin-top: 128px;
 }
 
 .hot-deal-tittle {
@@ -141,6 +196,8 @@
     font-size: 18px;
     margin-bottom: 48px;
 }
+
+/* Latest section */
 
 .latest-section {
     width: 1440px;
