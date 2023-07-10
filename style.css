@@ -82,10 +82,12 @@
     margin-top: 100px;
     margin-bottom: 100px;
 }
+
 /* This is Insta Section */
 
 .insta {
     margin-top: 130px;
+    margin-bottom: 128px;
 }
 
 .box {
@@ -109,6 +111,41 @@
     font-size: 18px;
     margin-bottom: 48px;
 }
-.box-image{
-   margin-right: 10px;
+
+.latest-section {
+    width: 1440px;
+    height: 449px;
+    background-image: url("./image/Rectangle\ 9.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    margin-bottom: 128px;
+    align-items: center;
+}
+
+.latest-tittle {
+    text-align: center;
+
+}
+
+.latest-deal {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 122px;
+}
+
+.coupon {
+    margin-bottom: 40px;
+}
+
+.input-design {
+    width: 700px;
+    height: 65px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    padding-left: 22px;
+    border-radius: 8px;
+    border: 0;
+    margin-right: 16px;
 }
