@@ -7,7 +7,7 @@
 
 /* This is Header And Banner Section Style */
 .header {
-    padding: 50px 240px 240px 240px;
+    padding: 50px 240px 0px 240px;
     background: rgba(229, 84, 115, 0.10);
    
 
@@ -31,6 +31,9 @@
     font-size: 18px;
     margin-bottom: 32px;
 
+}
+.banner-content{
+    max-width: 634px;
 }
 
 .btn-primary {
