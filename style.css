@@ -167,6 +167,24 @@
     margin-top: 100px;
     margin-bottom: 100px;
 }
+/* Potted Plants style */
+.plant-deals{
+    background-image: url("./image/plant.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 250px 200px 250px 200px;
+    margin-top: 128px;
+}
+.potted-tittle{
+    color: #272727;
+    font-size: 80px;
+    margin-bottom: 24px;
+}
+.plant-description{
+    margin-bottom: 30px;
+    color: rgba(39, 39, 39, 0.60);
+}
 
 /* This is Insta Section */
 
